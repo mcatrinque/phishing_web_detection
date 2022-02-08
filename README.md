@@ -7,7 +7,6 @@ ambiente seguro.
 
 Ao verificar os trabalhos anteriores relativos ao dataset alvo, foram identificados como principais métodos de aprendizado
 de máquina utilizados:
-#Markdown
 - Regressão Logística 
 - Random Forest
 - K-Nearet Neigbohors 
