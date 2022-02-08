@@ -9,7 +9,7 @@ Ao verificar os trabalhos anteriores relativos ao dataset alvo, foram identifica
 de máquina utilizados:
 - Regressão Logística 
 - Random Forest
-- K-Nearet Neigbohors 
+- K-Nearet Neighbors  
 - Árvore de decisão
 
 Com esse projeto, pretende-se avaliar os modelos com melhor desempenho a partir dos trabalhos anteriores, buscando atingir 
